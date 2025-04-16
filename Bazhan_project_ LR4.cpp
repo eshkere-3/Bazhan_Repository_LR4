@@ -15,6 +15,11 @@ double enter_B() {
 
 double proizv(int A, int B) {
 
+    int pr;
+
+    pr = A * B;
+
+    return pr;
 
 }
 
