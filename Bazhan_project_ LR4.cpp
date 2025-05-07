@@ -5,6 +5,7 @@ using namespace std;
 
 double enter_A() {
 
+
 }
 
 double enter_B() {
